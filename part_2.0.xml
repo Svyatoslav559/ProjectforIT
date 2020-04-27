@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<products> 
+<drug name="For Life" id="123123" category="drug"> 
+<link href="#"/> 
+<price>$120.00</price> 
+</drug> 
+<drug name="For Happy Life" id="456456" category="medicines"> 
+<link href="#"/> 
+<price>$200.00</price> 
+</drug> 
+<drug name="For Long Life" id="789789" category="drug"> 
+<link href="#"/> 
+<price>$205.00</price> 
+</drug> 
+<drug name="For Colorful Life" id="987987" category="medicines"> 
+<link href="#"/> 
+<price>$250.00</price> 
+</drug> 
+<drug name="For Your Life" id="345345" category="medicines"> 
+<link href="# "/> 
+<price>$220.00</price> 
+</drug> 
+</products>
